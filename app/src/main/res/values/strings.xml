@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Email App</string>
+    <string name="compose_email">Compose Email</string>
+    <string name="filter">Filter</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="add_event">Add Event</string>
+    <string name="star_image_description">Star</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="para">To</string>
+    <string name="assunto">Subject</string>
+    <string name="mensagem">Message</string>
+    <string name="anexar_arquivo">Attach File</string>
+    <string name="enviar_email">Send Email</string>
+    <string name="forgot_passwords">Forgot Password?</string>
+    <string name="action_settings" />
+    <string name="recipient">Recipient</string>
+    <string name="subject">Subject</string>
+    <string name="Enviar">Compose email</string>
+    <string name="Enviar_">Send</string>
+
+    <string-array name="reminder_options">
+        <item>Nenhum</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 dia</item>
+    </string-array>
+</resources>

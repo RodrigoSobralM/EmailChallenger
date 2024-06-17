@@ -1,0 +1,33 @@
+<!-- res/layout/item_email.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/emailSender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sender"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/emailSubject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject" />
+
+    <TextView
+        android:id="@+id/emailBodyPreview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Body Preview" />
+
+    <TextView
+        android:id="@+id/emailTimestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timestamp" />
+
+</LinearLayout>
